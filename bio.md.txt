@@ -1,4 +1,12 @@
-Hobbies: Playing Guitar, drums, juggling, knitting, magic, and programming
+Family Background:
+I am married to my beautiful wife Jennifer, and I have 5 children: Jeremiah(21), Josiah(19), Joelle(17), Joshua(13), and Jordan(9)
 
+Hobbies: 
+Playing Guitar, drums, juggling, knitting, magic, and programming
 
 Programming Background:
+
+I published a simple android game called "Apple Drop" to the Google Play store. A friend of mine from high school did the graphics
+and we formed a new company called "The Town Studios".
+
+I took a class called CS 165 last quarter and my favorite program was my final project. It was a text based game called "Color Warriors".
