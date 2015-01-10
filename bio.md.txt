@@ -5,3 +5,5 @@ Programming Background:
 
 I published a simple android game called "Apple Drop" to the Google Play store. A friend of mine from high school did the graphics
 and we formed a new company called "The Town Studios".
+
+I took a class called CS 165 last quarter and my favorite program was my final project. It was a text based game called "Color Warriors".
