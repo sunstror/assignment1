@@ -2,3 +2,6 @@ Hobbies: Playing Guitar, drums, juggling, knitting, magic, and programming
 
 
 Programming Background:
+
+I published a simple android game called "Apple Drop" to the Google Play store. A friend of mine from high school did the graphics
+and we formed a new company called "The Town Studios".
