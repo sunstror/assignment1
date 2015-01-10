@@ -4,6 +4,9 @@ I am married to my beautiful wife Jennifer, and I have 5 children: Jeremiah(21),
 Hobbies: 
 Playing Guitar, drums, juggling, knitting, magic, and programming
 
+Educational Background:
+I have a B.S. in Spanish and Secondary Education from St. Cloud State University
+
 Programming Background:
 
 I published a simple android game called "Apple Drop" to the Google Play store. A friend of mine from high school did the graphics
